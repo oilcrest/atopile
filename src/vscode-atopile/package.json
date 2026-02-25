@@ -266,7 +266,7 @@
     "dependencies": {
         "@types/decompress": "^4.2.7",
         "@vscode/python-extension": "^1.0.5",
-        "axios": "^1.9.0",
+        "axios": "^1.13.5",
         "decompress": "^4.2.1",
         "fs-extra": "^11.2.0",
         "ovsx": "^0.10.1",
